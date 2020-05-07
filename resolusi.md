@@ -3,4 +3,5 @@
 - Build lms
 - Learn Javascript
 - Learn PHP
-    *asadada
+- Learn Trello
+- Learn OneNote
